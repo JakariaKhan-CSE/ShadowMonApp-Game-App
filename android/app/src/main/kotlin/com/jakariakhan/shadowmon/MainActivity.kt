@@ -1,4 +1,4 @@
-package com.example.shadow_mon_app
+package com.jakariakhan.shadowmon
 
 import io.flutter.embedding.android.FlutterActivity
 
